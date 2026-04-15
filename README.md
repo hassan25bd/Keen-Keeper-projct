@@ -1,7 +1,6 @@
 # 👥 KeenKeeper — Keep Your Friendships Alive
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D18-green)
 
 ## 📝 Description
@@ -81,37 +80,11 @@ Whether you're maintaining long-distance friendships or staying connected with p
 
 ---
 
-## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js 18 or higher
 - npm or yarn
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/hassan25bd/Keen-Keeper-projct.git
-cd Keen-Keeper-projct
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Open in browser
-# Visit http://localhost:3000
-```
-
-### Build for Production
-
-```bash
-npm run build
-npm start
-```
-
----
 
 ## 📁 Project Structure
 
@@ -220,20 +193,6 @@ The project includes 12 realistic friend profiles with:
 
 ---
 
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-```bash
-npm install -g vercel
-vercel
-```
-
-### Deploy to Other Platforms
-- Netlify: Build command: `npm run build`, Publish: `.next`
-- AWS Amplify: Connect GitHub repo, auto-deploy on push
-- Docker: Create Dockerfile and deploy to any container service
-
----
 
 ## 📝 Git Workflow
 
@@ -259,10 +218,6 @@ Contributions welcome! Please:
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
